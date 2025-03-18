@@ -1,4 +1,10 @@
 # PokedexGuide
+- Web Project: Pokémon Cards Website
+
+- Project Details: Each Pokémon has a unique ID, weight, power and element information.
+
+- Technologies I Use: Html Css JavaScript
+
 
 # GIF
 
